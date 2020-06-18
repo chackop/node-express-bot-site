@@ -1,1 +1,1 @@
-# Building a bot site with Node.js and Express
+# Building a bot site with EJS templates, Node.js and Express
